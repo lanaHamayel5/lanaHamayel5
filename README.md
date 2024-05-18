@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lana Hamayel</h1>
 <h3 align="center">"I am a fourth-year computer engineering student"</h3>
 
-- 📫 How to reach me **lana12@gmail.com**
+- 📫 How to reach me **lana12.amajd@gmail.com**
 
 <p align="left">
 </p>
