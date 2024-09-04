@@ -42,16 +42,11 @@
   <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
 </p>
 
-#### **Competitive Programming**
-<p align="center">
-  <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-</p>
-
 #### **Operating Systems**
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-%230E7F32.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Windows-%23181717.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
 ---
@@ -59,5 +54,3 @@
 ### 📫 Get in Touch
 
 - **Email:** [lana12.amajd@gmail.com](mailto:lana12.amajd@gmail.com)
-
----
