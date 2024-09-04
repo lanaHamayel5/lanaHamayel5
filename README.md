@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hello, I'm Lana Hamayel</h1>
-<h3 align="center">Fourth-Year Computer Engineering Student | AI Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Fifth-Year Computer Engineering Student</h3>
 
 ---
 
