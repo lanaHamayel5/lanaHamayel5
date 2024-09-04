@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Hello, I'm Lana Hamayel</h1>
 <h3 align="center">Fifth-Year Computer Engineering Student</h3>
 
@@ -7,6 +6,7 @@
 ### ✨ About Me
 
 - 🎓 Currently a fifth-year Computer Engineering student at Birzeit University.
+- 🛠️ Training as a backend developer with a passion for competitive programming and problem-solving.
 
 ### 🛠️ My Toolkit
 
@@ -58,7 +58,6 @@
 
 ### 📫 How to Reach Me
 
-- **Email**: lana12.amajd@gmail.com
+- **Email:** [lana12.amajd@gmail.com](mailto:lana12.amajd@gmail.com)
 
 ---
-
