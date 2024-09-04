@@ -3,10 +3,10 @@
 
 ---
 
-### ✨ About Me
+### 🚀 About Me
 
-- 🎓 Currently a fifth-year Computer Engineering student at Birzeit University.
-- 🛠️ Training as a backend developer with a passion for competitive programming and problem-solving.
+- 🎓 **Currently:** A fifth-year Computer Engineering student at Birzeit University.
+- 🛠️ **Passion:** Backend development, competitive programming, and problem-solving.
 
 ### 🛠️ My Toolkit
 
@@ -56,7 +56,7 @@
 
 ---
 
-### 📫 How to Reach Me
+### 📫 Get in Touch
 
 - **Email:** [lana12.amajd@gmail.com](mailto:lana12.amajd@gmail.com)
 
