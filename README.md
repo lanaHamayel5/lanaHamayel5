@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-I’m a dedicated **Fifth-Year Computer Engineering Student** with a passion for backend development. Currently, I’m expanding my skills in web development, backend infrastructure, and cloud services. I love to work on innovative projects that challenge my problem-solving abilities and allow me to grow as a developer.
+I’m a dedicated **Fifth-Year Computer Engineering Student** with a passion for backend development. Currently, I’m expanding my skills in web development, backend infrastructure, and cloud services. I love to work on innovative projects that challenge my abilities and allow me to grow as a developer.
 
 ---
 
